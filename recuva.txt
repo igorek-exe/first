@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This programm dont want to understand russian
+=======
+сколько можено комититьб не изменяемый фал
+>>>>>>> 2b29db9b8263d4b0daa89ad1d57e523bb66ce8cd
 
